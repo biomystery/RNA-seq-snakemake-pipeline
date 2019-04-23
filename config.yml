@@ -1,0 +1,6 @@
+# Path to an uncompressed FASTA file with all transcript sequences.
+CDNA: '/projects/ps-epigen/GENOME/mm10/Mus_musculus.GRCm38.cdna.all.fa.gz'
+#CDNA: '/projects/ps-epigen/GENOME/hg38/Homo_sapiens.GRCh38.cdna.all.fa.gz'
+OUT_DIR: 'out'
+# Path to a JSON file with samples and their corresponding FASTQ files.
+SAMPLES_JSON: './samples.json'

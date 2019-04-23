@@ -1,0 +1,13 @@
+{
+	"n_targets": 118489,
+	"n_bootstraps": 0,
+	"n_processed": 0,
+	"n_pseudoaligned": 0,
+	"n_unique": 0,
+	"p_pseudoaligned": 0.0,
+	"p_unique": 0.0,
+	"kallisto_version": "0.45.1",
+	"index_version": 10,
+	"start_time": "Tue Apr 23 12:43:19 2019",
+	"call": "kallisto quant -t 4 -i /projects/ps-epigen/GENOME/mm10/kallisto/Mus_musculus.GRCm38.cdna.all.fa.gz --output-dir=out/sample3 myfastqs/sample3/sample3_R1.fastq.gz myfastqs/sample3/sample3_R2.fastq.gz"
+}

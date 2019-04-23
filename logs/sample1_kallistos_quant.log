@@ -1,0 +1,16 @@
+
+[quant] fragment length distribution will be estimated from the data
+[index] k-mer length: 31
+[index] number of targets: 118,489
+[index] number of k-mers: 100,614,952
+[index] number of equivalence classes: 433,624
+[quant] running in paired-end mode
+[quant] will process pair 1: myfastqs/sample1/sample1_R1.fastq.gz
+                             myfastqs/sample1/sample1_R2.fastq.gz
+[quant] finding pseudoalignments for the reads ... done
+[quant] processed 0 reads, 0 reads pseudoaligned
+[~warn] no reads pseudoaligned.
+[quant] estimated average fragment length: 0
+[   em] quantifying the abundances ... done
+[   em] the Expectation-Maximization algorithm ran for 52 rounds
+
