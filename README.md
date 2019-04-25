@@ -1,6 +1,4 @@
-### Minimal working RNAseq pipeline using salmon and snakemake
-
-I copied many codes from https://github.com/slowkow/snakefiles
+### Minimal working RNAseq pipeline using kallisto and snakemake
 
 To creat the `samples.json` file, feed the script with the full path to the fastq directory:
 
@@ -17,6 +15,9 @@ snakemake -np
 
 ## work flow diagram
 snakemake --forceall --dag | dot -Tpng | display
+
+# run 
+snakemake 
 ```
 
 ![](./DAG.png)

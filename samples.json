@@ -1,26 +1,832 @@
 {
-    "sample1": {
+    "CA10a": {
         "R1": [
-            "myfastqs/sample1/sample1_R1.fastq.gz"
-        ],
-        "R2": [
-            "myfastqs/sample1/sample1_R2.fastq.gz"
+            "/home/zhc268/data/projects/cantal/RNAseq/CA10a_S116_L004_R1_001.fastq.gz"
         ]
     },
-    "sample2": {
+    "CA10b": {
         "R1": [
-            "myfastqs/sample2/sample2_R1.fastq.gz"
-        ],
-        "R2": [
-            "myfastqs/sample2/sample2_R2.fastq.gz"
+            "/home/zhc268/data/projects/cantal/RNAseq/CA10b_S199_L006_R1_001.fastq.gz"
         ]
     },
-    "sample3": {
+    "CA11a": {
         "R1": [
-            "myfastqs/sample3/sample3_R1.fastq.gz"
-        ],
-        "R2": [
-            "myfastqs/sample3/sample3_R2.fastq.gz"
+            "/home/zhc268/data/projects/cantal/RNAseq/CA11a_S117_L004_R1_001.fastq.gz"
+        ]
+    },
+    "CA11b": {
+        "R1": [
+            "/home/zhc268/data/projects/cantal/RNAseq/CA11b_S200_L006_R1_001.fastq.gz"
+        ]
+    },
+    "CA12a": {
+        "R1": [
+            "/home/zhc268/data/projects/cantal/RNAseq/CA12a_S118_L004_R1_001.fastq.gz"
+        ]
+    },
+    "CA12b": {
+        "R1": [
+            "/home/zhc268/data/projects/cantal/RNAseq/CA12b_S201_L006_R1_001.fastq.gz"
+        ]
+    },
+    "CA13a": {
+        "R1": [
+            "/home/zhc268/data/projects/cantal/RNAseq/CA13a_S119_L004_R1_001.fastq.gz"
+        ]
+    },
+    "CA13b": {
+        "R1": [
+            "/home/zhc268/data/projects/cantal/RNAseq/CA13b_S202_L006_R1_001.fastq.gz"
+        ]
+    },
+    "CA14a": {
+        "R1": [
+            "/home/zhc268/data/projects/cantal/RNAseq/CA14a_S120_L004_R1_001.fastq.gz"
+        ]
+    },
+    "CA14b": {
+        "R1": [
+            "/home/zhc268/data/projects/cantal/RNAseq/CA14b_S203_L006_R1_001.fastq.gz"
+        ]
+    },
+    "CA15a": {
+        "R1": [
+            "/home/zhc268/data/projects/cantal/RNAseq/CA15a_S121_L004_R1_001.fastq.gz"
+        ]
+    },
+    "CA15b": {
+        "R1": [
+            "/home/zhc268/data/projects/cantal/RNAseq/CA15b_S204_L006_R1_001.fastq.gz"
+        ]
+    },
+    "CA16a": {
+        "R1": [
+            "/home/zhc268/data/projects/cantal/RNAseq/CA16a_S122_L004_R1_001.fastq.gz"
+        ]
+    },
+    "CA16b": {
+        "R1": [
+            "/home/zhc268/data/projects/cantal/RNAseq/CA16b_S205_L006_R1_001.fastq.gz"
+        ]
+    },
+    "CA17a": {
+        "R1": [
+            "/home/zhc268/data/projects/cantal/RNAseq/CA17a_S123_L004_R1_001.fastq.gz"
+        ]
+    },
+    "CA17b": {
+        "R1": [
+            "/home/zhc268/data/projects/cantal/RNAseq/CA17b_S206_L006_R1_001.fastq.gz"
+        ]
+    },
+    "CA18a": {
+        "R1": [
+            "/home/zhc268/data/projects/cantal/RNAseq/CA18a_S124_L004_R1_001.fastq.gz"
+        ]
+    },
+    "CA18b": {
+        "R1": [
+            "/home/zhc268/data/projects/cantal/RNAseq/CA18b_S207_L006_R1_001.fastq.gz"
+        ]
+    },
+    "CA19a": {
+        "R1": [
+            "/home/zhc268/data/projects/cantal/RNAseq/CA19a_S125_L004_R1_001.fastq.gz"
+        ]
+    },
+    "CA19b": {
+        "R1": [
+            "/home/zhc268/data/projects/cantal/RNAseq/CA19b_S208_L006_R1_001.fastq.gz"
+        ]
+    },
+    "CA1a": {
+        "R1": [
+            "/home/zhc268/data/projects/cantal/RNAseq/CA1a_S107_L004_R1_001.fastq.gz"
+        ]
+    },
+    "CA1b": {
+        "R1": [
+            "/home/zhc268/data/projects/cantal/RNAseq/CA1b_S190_L006_R1_001.fastq.gz"
+        ]
+    },
+    "CA20a": {
+        "R1": [
+            "/home/zhc268/data/projects/cantal/RNAseq/CA20a_S126_L004_R1_001.fastq.gz"
+        ]
+    },
+    "CA20b": {
+        "R1": [
+            "/home/zhc268/data/projects/cantal/RNAseq/CA20b_S209_L006_R1_001.fastq.gz"
+        ]
+    },
+    "CA21a": {
+        "R1": [
+            "/home/zhc268/data/projects/cantal/RNAseq/CA21a_S127_L004_R1_001.fastq.gz"
+        ]
+    },
+    "CA21b": {
+        "R1": [
+            "/home/zhc268/data/projects/cantal/RNAseq/CA21b_S210_L006_R1_001.fastq.gz"
+        ]
+    },
+    "CA22a": {
+        "R1": [
+            "/home/zhc268/data/projects/cantal/RNAseq/CA22a_S128_L004_R1_001.fastq.gz"
+        ]
+    },
+    "CA22b": {
+        "R1": [
+            "/home/zhc268/data/projects/cantal/RNAseq/CA22b_S211_L006_R1_001.fastq.gz"
+        ]
+    },
+    "CA23a": {
+        "R1": [
+            "/home/zhc268/data/projects/cantal/RNAseq/CA23a_S129_L004_R1_001.fastq.gz"
+        ]
+    },
+    "CA23b": {
+        "R1": [
+            "/home/zhc268/data/projects/cantal/RNAseq/CA23b_S212_L006_R1_001.fastq.gz"
+        ]
+    },
+    "CA24a": {
+        "R1": [
+            "/home/zhc268/data/projects/cantal/RNAseq/CA24a_S130_L004_R1_001.fastq.gz"
+        ]
+    },
+    "CA24b": {
+        "R1": [
+            "/home/zhc268/data/projects/cantal/RNAseq/CA24b_S213_L006_R1_001.fastq.gz"
+        ]
+    },
+    "CA25a": {
+        "R1": [
+            "/home/zhc268/data/projects/cantal/RNAseq/CA25a_S131_L004_R1_001.fastq.gz"
+        ]
+    },
+    "CA25b": {
+        "R1": [
+            "/home/zhc268/data/projects/cantal/RNAseq/CA25b_S214_L006_R1_001.fastq.gz"
+        ]
+    },
+    "CA26a": {
+        "R1": [
+            "/home/zhc268/data/projects/cantal/RNAseq/CA26a_S132_L004_R1_001.fastq.gz"
+        ]
+    },
+    "CA26b": {
+        "R1": [
+            "/home/zhc268/data/projects/cantal/RNAseq/CA26b_S215_L006_R1_001.fastq.gz"
+        ]
+    },
+    "CA27a": {
+        "R1": [
+            "/home/zhc268/data/projects/cantal/RNAseq/CA27a_S133_L004_R1_001.fastq.gz"
+        ]
+    },
+    "CA27b": {
+        "R1": [
+            "/home/zhc268/data/projects/cantal/RNAseq/CA27b_S216_L006_R1_001.fastq.gz"
+        ]
+    },
+    "CA28a": {
+        "R1": [
+            "/home/zhc268/data/projects/cantal/RNAseq/CA28a_S134_L004_R1_001.fastq.gz"
+        ]
+    },
+    "CA28b": {
+        "R1": [
+            "/home/zhc268/data/projects/cantal/RNAseq/CA28b_S217_L006_R1_001.fastq.gz"
+        ]
+    },
+    "CA29a": {
+        "R1": [
+            "/home/zhc268/data/projects/cantal/RNAseq/CA29a_S135_L004_R1_001.fastq.gz"
+        ]
+    },
+    "CA29b": {
+        "R1": [
+            "/home/zhc268/data/projects/cantal/RNAseq/CA29b_S218_L006_R1_001.fastq.gz"
+        ]
+    },
+    "CA2a": {
+        "R1": [
+            "/home/zhc268/data/projects/cantal/RNAseq/CA2a_S108_L004_R1_001.fastq.gz"
+        ]
+    },
+    "CA2b": {
+        "R1": [
+            "/home/zhc268/data/projects/cantal/RNAseq/CA2b_S191_L006_R1_001.fastq.gz"
+        ]
+    },
+    "CA30a": {
+        "R1": [
+            "/home/zhc268/data/projects/cantal/RNAseq/CA30a_S136_L004_R1_001.fastq.gz"
+        ]
+    },
+    "CA30b": {
+        "R1": [
+            "/home/zhc268/data/projects/cantal/RNAseq/CA30b_S219_L006_R1_001.fastq.gz"
+        ]
+    },
+    "CA31a": {
+        "R1": [
+            "/home/zhc268/data/projects/cantal/RNAseq/CA31a_S137_L004_R1_001.fastq.gz"
+        ]
+    },
+    "CA31b": {
+        "R1": [
+            "/home/zhc268/data/projects/cantal/RNAseq/CA31b_S220_L006_R1_001.fastq.gz"
+        ]
+    },
+    "CA32a": {
+        "R1": [
+            "/home/zhc268/data/projects/cantal/RNAseq/CA32a_S138_L004_R1_001.fastq.gz"
+        ]
+    },
+    "CA32b": {
+        "R1": [
+            "/home/zhc268/data/projects/cantal/RNAseq/CA32b_S221_L006_R1_001.fastq.gz"
+        ]
+    },
+    "CA33a": {
+        "R1": [
+            "/home/zhc268/data/projects/cantal/RNAseq/CA33a_S139_L004_R1_001.fastq.gz"
+        ]
+    },
+    "CA33b": {
+        "R1": [
+            "/home/zhc268/data/projects/cantal/RNAseq/CA33b_S222_L006_R1_001.fastq.gz"
+        ]
+    },
+    "CA34a": {
+        "R1": [
+            "/home/zhc268/data/projects/cantal/RNAseq/CA34a_S140_L004_R1_001.fastq.gz"
+        ]
+    },
+    "CA34b": {
+        "R1": [
+            "/home/zhc268/data/projects/cantal/RNAseq/CA34b_S223_L006_R1_001.fastq.gz"
+        ]
+    },
+    "CA35a": {
+        "R1": [
+            "/home/zhc268/data/projects/cantal/RNAseq/CA35a_S141_L004_R1_001.fastq.gz"
+        ]
+    },
+    "CA35b": {
+        "R1": [
+            "/home/zhc268/data/projects/cantal/RNAseq/CA35b_S224_L006_R1_001.fastq.gz"
+        ]
+    },
+    "CA36a": {
+        "R1": [
+            "/home/zhc268/data/projects/cantal/RNAseq/CA36a_S142_L004_R1_001.fastq.gz"
+        ]
+    },
+    "CA36b": {
+        "R1": [
+            "/home/zhc268/data/projects/cantal/RNAseq/CA36b_S225_L006_R1_001.fastq.gz"
+        ]
+    },
+    "CA37a": {
+        "R1": [
+            "/home/zhc268/data/projects/cantal/RNAseq/CA37a_S143_L004_R1_001.fastq.gz"
+        ]
+    },
+    "CA37b": {
+        "R1": [
+            "/home/zhc268/data/projects/cantal/RNAseq/CA37b_S226_L006_R1_001.fastq.gz"
+        ]
+    },
+    "CA38a": {
+        "R1": [
+            "/home/zhc268/data/projects/cantal/RNAseq/CA38a_S144_L004_R1_001.fastq.gz"
+        ]
+    },
+    "CA38b": {
+        "R1": [
+            "/home/zhc268/data/projects/cantal/RNAseq/CA38b_S227_L006_R1_001.fastq.gz"
+        ]
+    },
+    "CA39a": {
+        "R1": [
+            "/home/zhc268/data/projects/cantal/RNAseq/CA39a_S145_L004_R1_001.fastq.gz"
+        ]
+    },
+    "CA39b": {
+        "R1": [
+            "/home/zhc268/data/projects/cantal/RNAseq/CA39b_S228_L006_R1_001.fastq.gz"
+        ]
+    },
+    "CA3a": {
+        "R1": [
+            "/home/zhc268/data/projects/cantal/RNAseq/CA3a_S109_L004_R1_001.fastq.gz"
+        ]
+    },
+    "CA3b": {
+        "R1": [
+            "/home/zhc268/data/projects/cantal/RNAseq/CA3b_S192_L006_R1_001.fastq.gz"
+        ]
+    },
+    "CA40a": {
+        "R1": [
+            "/home/zhc268/data/projects/cantal/RNAseq/CA40a_S146_L004_R1_001.fastq.gz"
+        ]
+    },
+    "CA40b": {
+        "R1": [
+            "/home/zhc268/data/projects/cantal/RNAseq/CA40b_S229_L006_R1_001.fastq.gz"
+        ]
+    },
+    "CA41a": {
+        "R1": [
+            "/home/zhc268/data/projects/cantal/RNAseq/CA41a_S147_L004_R1_001.fastq.gz"
+        ]
+    },
+    "CA41b": {
+        "R1": [
+            "/home/zhc268/data/projects/cantal/RNAseq/CA41b_S230_L006_R1_001.fastq.gz"
+        ]
+    },
+    "CA42a": {
+        "R1": [
+            "/home/zhc268/data/projects/cantal/RNAseq/CA42a_S148_L005_R1_001.fastq.gz"
+        ]
+    },
+    "CA42b": {
+        "R1": [
+            "/home/zhc268/data/projects/cantal/RNAseq/CA42b_S231_L007_R1_001.fastq.gz"
+        ]
+    },
+    "CA43a": {
+        "R1": [
+            "/home/zhc268/data/projects/cantal/RNAseq/CA43a_S149_L005_R1_001.fastq.gz"
+        ]
+    },
+    "CA43b": {
+        "R1": [
+            "/home/zhc268/data/projects/cantal/RNAseq/CA43b_S232_L007_R1_001.fastq.gz"
+        ]
+    },
+    "CA44a": {
+        "R1": [
+            "/home/zhc268/data/projects/cantal/RNAseq/CA44a_S150_L005_R1_001.fastq.gz"
+        ]
+    },
+    "CA44b": {
+        "R1": [
+            "/home/zhc268/data/projects/cantal/RNAseq/CA44b_S233_L007_R1_001.fastq.gz"
+        ]
+    },
+    "CA45a": {
+        "R1": [
+            "/home/zhc268/data/projects/cantal/RNAseq/CA45a_S151_L005_R1_001.fastq.gz"
+        ]
+    },
+    "CA45b": {
+        "R1": [
+            "/home/zhc268/data/projects/cantal/RNAseq/CA45b_S234_L007_R1_001.fastq.gz"
+        ]
+    },
+    "CA46a": {
+        "R1": [
+            "/home/zhc268/data/projects/cantal/RNAseq/CA46a_S152_L005_R1_001.fastq.gz"
+        ]
+    },
+    "CA46b": {
+        "R1": [
+            "/home/zhc268/data/projects/cantal/RNAseq/CA46b_S235_L007_R1_001.fastq.gz"
+        ]
+    },
+    "CA47a": {
+        "R1": [
+            "/home/zhc268/data/projects/cantal/RNAseq/CA47a_S153_L005_R1_001.fastq.gz"
+        ]
+    },
+    "CA47b": {
+        "R1": [
+            "/home/zhc268/data/projects/cantal/RNAseq/CA47b_S236_L007_R1_001.fastq.gz"
+        ]
+    },
+    "CA48a": {
+        "R1": [
+            "/home/zhc268/data/projects/cantal/RNAseq/CA48a_S154_L005_R1_001.fastq.gz"
+        ]
+    },
+    "CA48b": {
+        "R1": [
+            "/home/zhc268/data/projects/cantal/RNAseq/CA48b_S237_L007_R1_001.fastq.gz"
+        ]
+    },
+    "CA49a": {
+        "R1": [
+            "/home/zhc268/data/projects/cantal/RNAseq/CA49a_S155_L005_R1_001.fastq.gz"
+        ]
+    },
+    "CA49b": {
+        "R1": [
+            "/home/zhc268/data/projects/cantal/RNAseq/CA49b_S238_L007_R1_001.fastq.gz"
+        ]
+    },
+    "CA4a": {
+        "R1": [
+            "/home/zhc268/data/projects/cantal/RNAseq/CA4a_S110_L004_R1_001.fastq.gz"
+        ]
+    },
+    "CA4b": {
+        "R1": [
+            "/home/zhc268/data/projects/cantal/RNAseq/CA4b_S193_L006_R1_001.fastq.gz"
+        ]
+    },
+    "CA50a": {
+        "R1": [
+            "/home/zhc268/data/projects/cantal/RNAseq/CA50a_S156_L005_R1_001.fastq.gz"
+        ]
+    },
+    "CA50b": {
+        "R1": [
+            "/home/zhc268/data/projects/cantal/RNAseq/CA50b_S239_L007_R1_001.fastq.gz"
+        ]
+    },
+    "CA51a": {
+        "R1": [
+            "/home/zhc268/data/projects/cantal/RNAseq/CA51a_S157_L005_R1_001.fastq.gz"
+        ]
+    },
+    "CA51b": {
+        "R1": [
+            "/home/zhc268/data/projects/cantal/RNAseq/CA51b_S240_L007_R1_001.fastq.gz"
+        ]
+    },
+    "CA52a": {
+        "R1": [
+            "/home/zhc268/data/projects/cantal/RNAseq/CA52a_S158_L005_R1_001.fastq.gz"
+        ]
+    },
+    "CA52b": {
+        "R1": [
+            "/home/zhc268/data/projects/cantal/RNAseq/CA52b_S241_L007_R1_001.fastq.gz"
+        ]
+    },
+    "CA53a": {
+        "R1": [
+            "/home/zhc268/data/projects/cantal/RNAseq/CA53a_S159_L005_R1_001.fastq.gz"
+        ]
+    },
+    "CA53b": {
+        "R1": [
+            "/home/zhc268/data/projects/cantal/RNAseq/CA53b_S242_L007_R1_001.fastq.gz"
+        ]
+    },
+    "CA54a": {
+        "R1": [
+            "/home/zhc268/data/projects/cantal/RNAseq/CA54a_S160_L005_R1_001.fastq.gz"
+        ]
+    },
+    "CA54b": {
+        "R1": [
+            "/home/zhc268/data/projects/cantal/RNAseq/CA54b_S243_L007_R1_001.fastq.gz"
+        ]
+    },
+    "CA55a": {
+        "R1": [
+            "/home/zhc268/data/projects/cantal/RNAseq/CA55a_S161_L005_R1_001.fastq.gz"
+        ]
+    },
+    "CA55b": {
+        "R1": [
+            "/home/zhc268/data/projects/cantal/RNAseq/CA55b_S244_L007_R1_001.fastq.gz"
+        ]
+    },
+    "CA56a": {
+        "R1": [
+            "/home/zhc268/data/projects/cantal/RNAseq/CA56a_S162_L005_R1_001.fastq.gz"
+        ]
+    },
+    "CA56b": {
+        "R1": [
+            "/home/zhc268/data/projects/cantal/RNAseq/CA56b_S245_L007_R1_001.fastq.gz"
+        ]
+    },
+    "CA57a": {
+        "R1": [
+            "/home/zhc268/data/projects/cantal/RNAseq/CA57a_S163_L005_R1_001.fastq.gz"
+        ]
+    },
+    "CA57b": {
+        "R1": [
+            "/home/zhc268/data/projects/cantal/RNAseq/CA57b_S246_L007_R1_001.fastq.gz"
+        ]
+    },
+    "CA58a": {
+        "R1": [
+            "/home/zhc268/data/projects/cantal/RNAseq/CA58a_S164_L005_R1_001.fastq.gz"
+        ]
+    },
+    "CA58b": {
+        "R1": [
+            "/home/zhc268/data/projects/cantal/RNAseq/CA58b_S247_L007_R1_001.fastq.gz"
+        ]
+    },
+    "CA59a": {
+        "R1": [
+            "/home/zhc268/data/projects/cantal/RNAseq/CA59a_S165_L005_R1_001.fastq.gz"
+        ]
+    },
+    "CA59b": {
+        "R1": [
+            "/home/zhc268/data/projects/cantal/RNAseq/CA59b_S248_L007_R1_001.fastq.gz"
+        ]
+    },
+    "CA5a": {
+        "R1": [
+            "/home/zhc268/data/projects/cantal/RNAseq/CA5a_S111_L004_R1_001.fastq.gz"
+        ]
+    },
+    "CA5b": {
+        "R1": [
+            "/home/zhc268/data/projects/cantal/RNAseq/CA5b_S194_L006_R1_001.fastq.gz"
+        ]
+    },
+    "CA60a": {
+        "R1": [
+            "/home/zhc268/data/projects/cantal/RNAseq/CA60a_S166_L005_R1_001.fastq.gz"
+        ]
+    },
+    "CA60b": {
+        "R1": [
+            "/home/zhc268/data/projects/cantal/RNAseq/CA60b_S249_L007_R1_001.fastq.gz"
+        ]
+    },
+    "CA61a": {
+        "R1": [
+            "/home/zhc268/data/projects/cantal/RNAseq/CA61a_S167_L005_R1_001.fastq.gz"
+        ]
+    },
+    "CA61b": {
+        "R1": [
+            "/home/zhc268/data/projects/cantal/RNAseq/CA61b_S250_L007_R1_001.fastq.gz"
+        ]
+    },
+    "CA62a": {
+        "R1": [
+            "/home/zhc268/data/projects/cantal/RNAseq/CA62a_S168_L005_R1_001.fastq.gz"
+        ]
+    },
+    "CA62b": {
+        "R1": [
+            "/home/zhc268/data/projects/cantal/RNAseq/CA62b_S251_L007_R1_001.fastq.gz"
+        ]
+    },
+    "CA63a": {
+        "R1": [
+            "/home/zhc268/data/projects/cantal/RNAseq/CA63a_S169_L005_R1_001.fastq.gz"
+        ]
+    },
+    "CA63b": {
+        "R1": [
+            "/home/zhc268/data/projects/cantal/RNAseq/CA63b_S252_L007_R1_001.fastq.gz"
+        ]
+    },
+    "CA64a": {
+        "R1": [
+            "/home/zhc268/data/projects/cantal/RNAseq/CA64a_S170_L005_R1_001.fastq.gz"
+        ]
+    },
+    "CA64b": {
+        "R1": [
+            "/home/zhc268/data/projects/cantal/RNAseq/CA64b_S253_L007_R1_001.fastq.gz"
+        ]
+    },
+    "CA65a": {
+        "R1": [
+            "/home/zhc268/data/projects/cantal/RNAseq/CA65a_S171_L005_R1_001.fastq.gz"
+        ]
+    },
+    "CA65b": {
+        "R1": [
+            "/home/zhc268/data/projects/cantal/RNAseq/CA65b_S254_L007_R1_001.fastq.gz"
+        ]
+    },
+    "CA66a": {
+        "R1": [
+            "/home/zhc268/data/projects/cantal/RNAseq/CA66a_S172_L005_R1_001.fastq.gz"
+        ]
+    },
+    "CA66b": {
+        "R1": [
+            "/home/zhc268/data/projects/cantal/RNAseq/CA66b_S255_L007_R1_001.fastq.gz"
+        ]
+    },
+    "CA67a": {
+        "R1": [
+            "/home/zhc268/data/projects/cantal/RNAseq/CA67a_S173_L005_R1_001.fastq.gz"
+        ]
+    },
+    "CA67b": {
+        "R1": [
+            "/home/zhc268/data/projects/cantal/RNAseq/CA67b_S256_L007_R1_001.fastq.gz"
+        ]
+    },
+    "CA68a": {
+        "R1": [
+            "/home/zhc268/data/projects/cantal/RNAseq/CA68a_S174_L005_R1_001.fastq.gz"
+        ]
+    },
+    "CA68b": {
+        "R1": [
+            "/home/zhc268/data/projects/cantal/RNAseq/CA68b_S257_L007_R1_001.fastq.gz"
+        ]
+    },
+    "CA69a": {
+        "R1": [
+            "/home/zhc268/data/projects/cantal/RNAseq/CA69a_S175_L005_R1_001.fastq.gz"
+        ]
+    },
+    "CA69b": {
+        "R1": [
+            "/home/zhc268/data/projects/cantal/RNAseq/CA69b_S258_L007_R1_001.fastq.gz"
+        ]
+    },
+    "CA6a": {
+        "R1": [
+            "/home/zhc268/data/projects/cantal/RNAseq/CA6a_S112_L004_R1_001.fastq.gz"
+        ]
+    },
+    "CA6b": {
+        "R1": [
+            "/home/zhc268/data/projects/cantal/RNAseq/CA6b_S195_L006_R1_001.fastq.gz"
+        ]
+    },
+    "CA70a": {
+        "R1": [
+            "/home/zhc268/data/projects/cantal/RNAseq/CA70a_S176_L005_R1_001.fastq.gz"
+        ]
+    },
+    "CA70b": {
+        "R1": [
+            "/home/zhc268/data/projects/cantal/RNAseq/CA70b_S259_L007_R1_001.fastq.gz"
+        ]
+    },
+    "CA71a": {
+        "R1": [
+            "/home/zhc268/data/projects/cantal/RNAseq/CA71a_S177_L005_R1_001.fastq.gz"
+        ]
+    },
+    "CA71b": {
+        "R1": [
+            "/home/zhc268/data/projects/cantal/RNAseq/CA71b_S260_L007_R1_001.fastq.gz"
+        ]
+    },
+    "CA72a": {
+        "R1": [
+            "/home/zhc268/data/projects/cantal/RNAseq/CA72a_S178_L005_R1_001.fastq.gz"
+        ]
+    },
+    "CA72b": {
+        "R1": [
+            "/home/zhc268/data/projects/cantal/RNAseq/CA72b_S261_L007_R1_001.fastq.gz"
+        ]
+    },
+    "CA73a": {
+        "R1": [
+            "/home/zhc268/data/projects/cantal/RNAseq/CA73a_S179_L005_R1_001.fastq.gz"
+        ]
+    },
+    "CA73b": {
+        "R1": [
+            "/home/zhc268/data/projects/cantal/RNAseq/CA73b_S262_L007_R1_001.fastq.gz"
+        ]
+    },
+    "CA74a": {
+        "R1": [
+            "/home/zhc268/data/projects/cantal/RNAseq/CA74a_S180_L005_R1_001.fastq.gz"
+        ]
+    },
+    "CA74b": {
+        "R1": [
+            "/home/zhc268/data/projects/cantal/RNAseq/CA74b_S263_L007_R1_001.fastq.gz"
+        ]
+    },
+    "CA75a": {
+        "R1": [
+            "/home/zhc268/data/projects/cantal/RNAseq/CA75a_S181_L005_R1_001.fastq.gz"
+        ]
+    },
+    "CA75b": {
+        "R1": [
+            "/home/zhc268/data/projects/cantal/RNAseq/CA75b_S264_L007_R1_001.fastq.gz"
+        ]
+    },
+    "CA76a": {
+        "R1": [
+            "/home/zhc268/data/projects/cantal/RNAseq/CA76a_S182_L005_R1_001.fastq.gz"
+        ]
+    },
+    "CA76b": {
+        "R1": [
+            "/home/zhc268/data/projects/cantal/RNAseq/CA76b_S265_L007_R1_001.fastq.gz"
+        ]
+    },
+    "CA77a": {
+        "R1": [
+            "/home/zhc268/data/projects/cantal/RNAseq/CA77a_S183_L005_R1_001.fastq.gz"
+        ]
+    },
+    "CA77b": {
+        "R1": [
+            "/home/zhc268/data/projects/cantal/RNAseq/CA77b_S266_L007_R1_001.fastq.gz"
+        ]
+    },
+    "CA78a": {
+        "R1": [
+            "/home/zhc268/data/projects/cantal/RNAseq/CA78a_S184_L005_R1_001.fastq.gz"
+        ]
+    },
+    "CA78b": {
+        "R1": [
+            "/home/zhc268/data/projects/cantal/RNAseq/CA78b_S267_L007_R1_001.fastq.gz"
+        ]
+    },
+    "CA79a": {
+        "R1": [
+            "/home/zhc268/data/projects/cantal/RNAseq/CA79a_S185_L005_R1_001.fastq.gz"
+        ]
+    },
+    "CA79b": {
+        "R1": [
+            "/home/zhc268/data/projects/cantal/RNAseq/CA79b_S268_L007_R1_001.fastq.gz"
+        ]
+    },
+    "CA7a": {
+        "R1": [
+            "/home/zhc268/data/projects/cantal/RNAseq/CA7a_S113_L004_R1_001.fastq.gz"
+        ]
+    },
+    "CA7b": {
+        "R1": [
+            "/home/zhc268/data/projects/cantal/RNAseq/CA7b_S196_L006_R1_001.fastq.gz"
+        ]
+    },
+    "CA80a": {
+        "R1": [
+            "/home/zhc268/data/projects/cantal/RNAseq/CA80a_S186_L005_R1_001.fastq.gz"
+        ]
+    },
+    "CA80b": {
+        "R1": [
+            "/home/zhc268/data/projects/cantal/RNAseq/CA80b_S269_L007_R1_001.fastq.gz"
+        ]
+    },
+    "CA81a": {
+        "R1": [
+            "/home/zhc268/data/projects/cantal/RNAseq/CA81a_S187_L005_R1_001.fastq.gz"
+        ]
+    },
+    "CA81b": {
+        "R1": [
+            "/home/zhc268/data/projects/cantal/RNAseq/CA81b_S270_L007_R1_001.fastq.gz"
+        ]
+    },
+    "CA82a": {
+        "R1": [
+            "/home/zhc268/data/projects/cantal/RNAseq/CA82a_S188_L005_R1_001.fastq.gz"
+        ]
+    },
+    "CA82b": {
+        "R1": [
+            "/home/zhc268/data/projects/cantal/RNAseq/CA82b_S271_L007_R1_001.fastq.gz"
+        ]
+    },
+    "CA83a": {
+        "R1": [
+            "/home/zhc268/data/projects/cantal/RNAseq/CA83a_S189_L005_R1_001.fastq.gz"
+        ]
+    },
+    "CA83b": {
+        "R1": [
+            "/home/zhc268/data/projects/cantal/RNAseq/CA83b_S272_L007_R1_001.fastq.gz"
+        ]
+    },
+    "CA8a": {
+        "R1": [
+            "/home/zhc268/data/projects/cantal/RNAseq/CA8a_S114_L004_R1_001.fastq.gz"
+        ]
+    },
+    "CA8b": {
+        "R1": [
+            "/home/zhc268/data/projects/cantal/RNAseq/CA8b_S197_L006_R1_001.fastq.gz"
+        ]
+    },
+    "CA9a": {
+        "R1": [
+            "/home/zhc268/data/projects/cantal/RNAseq/CA9a_S115_L004_R1_001.fastq.gz"
+        ]
+    },
+    "CA9b": {
+        "R1": [
+            "/home/zhc268/data/projects/cantal/RNAseq/CA9b_S198_L006_R1_001.fastq.gz"
         ]
     }
 }

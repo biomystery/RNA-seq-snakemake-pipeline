@@ -1,8 +1,6 @@
-
 #!/usr/bin/env python3
-
-
 import json
+import re
 from glob import glob
 import argparse
 import os
@@ -21,11 +19,11 @@ if not os.path.exists(args.fastq_dir):
 	exit()
 
 # glob all the fastq files
-fastqs = glob(args.fastq_dir + '/*/*fastq.gz')
+fastqs = glob(args.fastq_dir + '*fastq.gz')
 FILES = {}
 
 # Change this line to extract a sample name from each filename, the folder name is the sample name in my case
-SAMPLES = [fastq.split('/')[-2] for fastq in fastqs]
+SAMPLES = [re.sub(r'_S.*','',fastq.split('/')[-1]) for fastq in fastqs]
 
 for sample in SAMPLES:
     # Change 'R1' and 'R2' to match the way your mate pairs are marked.
@@ -33,7 +31,8 @@ for sample in SAMPLES:
     mate2 = lambda fastq: sample in fastq and 'R2' in fastq
     FILES[sample] = {}
     FILES[sample]['R1'] = sorted(filter(mate1, fastqs))
-    FILES[sample]['R2'] = sorted(filter(mate2, fastqs))
 
 js = json.dumps(FILES, indent = 4, sort_keys=True)
 open('samples.json', 'w').writelines(js)
+
+#python3 write_sample2_json.py --fastq_dir $HOME/data/projects/cantal/RNAseq/
